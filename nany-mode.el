@@ -44,7 +44,7 @@
 
 ;; Keywords
 (defconst nany-keywords
-	'("allow" "and" "break" "case" "class" "const" "cref" "continue" "default" "do" "each" "enum" "else" "event" "every" "for" "forbid" "func" "function" "if" "in" "internal" "mod" "new" "not" "on" "operator" "or" "override" "private" "property" "protected" "public" "published" "raise" "ref" "return" "self" "state" "states" "switch" "then" "transitions" "typedef" "typeof" "var" "view" "while" "workflow" "xor")
+	'("allow" "and" "break" "case" "class" "const" "cref" "continue" "default" "do" "each" "enum" "else" "event" "every" "for" "forbid" "func" "if" "in" "internal" "mod" "new" "not" "on" "operator" "or" "override" "private" "property" "protected" "public" "published" "raise" "ref" "return" "self" "state" "states" "switch" "then" "transitions" "typedef" "typeof" "unittest" "var" "view" "while" "workflow" "xor")
 	"Nany keywords"
 	)
 ;; Regexped version
